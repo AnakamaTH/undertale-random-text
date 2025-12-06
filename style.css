@@ -1,0 +1,40 @@
+    @font-face {
+      font-family: 'Determination Mono';
+      src: url('https://anakama.xyz/assets/DeterminationMonoWeb.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    body {
+      background: black;
+      color: white;
+      font-family: 'Determination Mono', monospace;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    #quote-box {
+      border: 2px solid white;
+      padding: 20px;
+      max-width: 600px;
+      text-align: center;
+      font-size: 1.4rem;
+    }
+
+    button {
+      margin-top: 20px;
+      background: none;
+      border: 2px solid white;
+      padding: 10px 20px;
+      color: white;
+      font-family: 'Determination Mono', monospace;
+      cursor: pointer;
+    }
+    button:hover {
+      background: white;
+      color: black;
+    }
