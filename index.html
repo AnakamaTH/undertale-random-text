@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Undertale Quotes</title>
+  <style>
+    @font-face {
+      font-family: 'Determination Mono';
+      src: url('https://anakama.xyz/assets/DeterminationMonoWeb.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    body {
+      background: black;
+      color: white;
+      font-family: 'Determination Mono', monospace;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    #quote-box {
+      border: 2px solid white;
+      padding: 20px;
+      max-width: 600px;
+      text-align: center;
+      font-size: 1.4rem;
+    }
+
+    button {
+      margin-top: 20px;
+      background: none;
+      border: 2px solid white;
+      padding: 10px 20px;
+      color: white;
+      font-family: 'Determination Mono', monospace;
+      cursor: pointer;
+    }
+    button:hover {
+      background: white;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <div id="quote-box">Click the button to get a random quote.</div>
+  <button onclick="getRandomQuote()">Random Quote</button>
+
+  <script>
+    async function getRandomQuote() {
+      try {
+        const response = await fetch('line.txt');
+        const text = await response.text();
+        const lines = text.split(/\r?\n/).filter(line => line.trim() !== '');
+        const randomLine = lines[Math.floor(Math.random() * lines.length)];
+        document.getElementById('quote-box').textContent = randomLine;
+      } catch (err) {
+        document.getElementById('quote-box').textContent = 'Error loading quotes.';
+      }
+    }
+  </script>
+</body>
+</html>
