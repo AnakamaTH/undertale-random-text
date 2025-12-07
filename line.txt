@@ -7,20 +7,17 @@ Well, I often start with a simple 'how do you do...'
 You could ask them about their favorite books...
 Jokes can be useful for 'breaking the ice.'
 Listen to this one...
-What did the skeleton tile his roof with?
-...SHIN-gles!
+What did the skeleton tile his roof with? ...SHIN-gles!
 Well, I thought it was amusing.
-Reel it in? Yes No
+Reel it in?
 All that's attached to the end is a photo of a weird-looking monster...
-(Call Me! Here's my number!)
-You decide not to call.
+(Call Me! Here's my number!) You decide not to call.
 You leave it alone.
 Thank you for taking care of me...
 You don't have any room? OK... I understand I am not a priority for you, then.
 SANS!!! THEY DIDN'T EVEN LOOK AT IT!
 NYEH! HEH! HEH HEH!
-YOU TWO ARE WEIRD!
-CROSSWORDS ARE SO EASY.
+YOU TWO ARE WEIRD! CROSSWORDS ARE SO EASY.
 IT'S THE SAME SOLUTION EVERY TIME.
 I JUST FILL ALL THE BOXES IN WITH THE LETTER "Z"...
 BECAUSE EVERY TIME I LOOK AT A CROSSWORD...
@@ -72,7 +69,7 @@ You found a Faded Ribbon.
 You are carrying too much.
 Hello there, little one!
 The pie has not cooled down yet.
-Perhaps you should take a nap. Yes No
+Perhaps you should take a nap.
 Sweet dreams.
 You'd rather stay up and chat with me, then?
 What? This... this IS your home now.
@@ -84,9 +81,7 @@ Sometimes flip their digestive systems as they mature?
 Talk. Really. Slowly? Just kidding, snails don't talk.
 If you need anything, just ask.
 ...I have to do something. Stay here..
-WOW!!!
-I HAVE FRIENDS!!!
-AND WHO KNEW THAT ALL I NEEDED TO MAKE THEM...
+WOW!!! I HAVE FRIENDS!!! AND WHO KNEW THAT ALL I NEEDED TO MAKE THEM...
 SO... WHAT DO YOU SAY?
 ...OKAY...
 I GUESS I'LL ACCEPT MY FAILURE...
@@ -95,19 +90,7 @@ Things are going to be OK, you hear?
 We're all going to the surface world soon...
 There's bound to be a place you can stay there!
 well, come back whenever you want.
-GROSS BANDAGE
-FADED RIBBON
-BANDANNA
-DUSTY TUTU
-SO... WHAT ARE YOU WEARING...?
-I'M... ASKING FOR A FRIEND.
-SHE THOUGHT SHE SAW YOU WEARING A
-.
-IS THAT TRUE? ARE YOU WEARING A
-?
-SO YOU ARE WEARING A
-...
-GOT IT!!! WINK WINK!!!
+SO... WHAT ARE YOU WEARING...? I'M... ASKING FOR A FRIEND. SHE THOUGHT SHE SAW YOU WEARING A [] IS THAT TRUE? ARE YOU WEARING A []? SO YOU ARE WEARING A [] GOT IT!!! WINK WINK!!!
 (There's an empty pie tin inside the stove.)
 IT'S OK TO BE INTIMIDATED BY MY FASHION SENSE.
 OKAY!!! LET'S HANG TEN!!
@@ -121,7 +104,7 @@ OK. have fun.
 grillby, we'll have a double order of fries.
 more for me.
 i'll tell you, then.
-(Return the umbrella?) Put back Do not
+(Return the umbrella?)
 (The music continues, and doesn't stop.)
 (The cooler is empty.)
 (Take a space food bar from the cooler?) Yes No
@@ -131,78 +114,28 @@ i'll tell you, then.
 (You sock the dummy.)
 (Who cares?)
 (You stare into each other's eyes for a moment...)
-(This CD is playing.) (Turn it off?) Stop it No
+(This CD is playing.) (Turn it off?)
 (Spooktunes are dead.)
 (The CD stops moving.)
 (There's a lonely sandwich inside.)
-um... you don't have any money?
-n-no, you can still play, don't worry about it...
-um... that's less than 10G.
-but since you're my only real customer, i guess i'll just take what you have...
-oh...........
+um... you don't have any money? n-no, you can still play, don't worry about it...
+um... that's less than 10G. but since you're my only real customer, i guess i'll just take what you have...
 Huh...?
 Yo, that's your idea of something mean?
 My sister says that to me ALL THE TIME!
 Guess I have to do it, haha.
 (There's no more water left in the cooler.)
 (You pour the water on the ground next to the water cooler.)
-WELL, WORRY NOT DEAR HUMAN!
-PAPYRUS WOULD NEVER BETRAY YOU!
-I AM NOT A CRUEL PERSON.
-I STRIVE TO BE COMFORTING AND PLEASANT.
-PAPYRUS! HE SMELLS LIKE THE MOON.
-SO, BECAUSE OF MY INHERENT GOODNESS...
-I TOLD HER YOU WERE NOT WEARING A
-EVEN THOUGH YOU TOLD ME YOU WERE!
-INSTEAD, I MADE SOMETHING UP!
-I TOLD HER YOU WERE WEARING...
-A
-IT PAINED ME TO TELL SUCH A BOLDFACED LIE.
-I KNOW YOU WOULD NEVER EVER WEAR A
-BUT YOUR SAFETY IS MORE IMPORTANT THAN FASHION.
-DANG!
-I JUST WANT TO BE FRIENDS WITH EVERYONE...
-I KNEW WHEN YOU SAID:
-"I AM NOT WEARING A
-."
-IT WAS REALLY A SECRET CODE!
-YOU REALLY MEANT...
-"I ACTUALLY AM WEARING A
-!"
-YOU WERE TRYING TO PROTECT YOURSELF...
-WHILE MAKING IT SO I DIDN'T HAVE TO LIE!
-I PICKED UP ON THIS, AND FOLLOWED YOUR PLAN.
-IN FACT I TOOK IT ONE STEP FURTHER!
-I TOLD HER YOU WERE PROBABLY...
-WEARING A
-OF COURSE, YOU WOULD NEVER WEAR THAT.
-BUT THAT'S THE POINT!
-SHE WON'T RECOGNIZE YOU NOW!
-AND I DIDN'T HAVE TO BETRAY EITHER OF YOU!
-SINCE I JUST TOLD HER WHAT YOU SAID!
-WOWIE! YOU'RE SUCH A SMART COOKIE!
-I REALLY CAN BE FRIENDS WITH EVERYONE!!!
+WELL, WORRY NOT DEAR HUMAN! PAPYRUS WOULD NEVER BETRAY YOU! I AM NOT A CRUEL PERSON. I STRIVE TO BE COMFORTING AND PLEASANT. PAPYRUS! HE SMELLS LIKE THE MOON. SO, BECAUSE OF MY INHERENT GOODNESS... I TOLD HER YOU WERE NOT WEARING A EVEN THOUGH YOU TOLD ME YOU WERE! INSTEAD, I MADE SOMETHING UP! I TOLD HER YOU WERE WEARING... A IT PAINED ME TO TELL SUCH A BOLDFACED LIE. I KNOW YOU WOULD NEVER EVER WEAR A BUT YOUR SAFETY IS MORE IMPORTANT THAN FASHION. DANG! I JUST WANT TO BE FRIENDS WITH EVERYONE... I KNEW WHEN YOU SAID: "I AM NOT WEARING A ." IT WAS REALLY A SECRET CODE! YOU REALLY MEANT... "I ACTUALLY AM WEARING A !" YOU WERE TRYING TO PROTECT YOURSELF... WHILE MAKING IT SO I DIDN'T HAVE TO LIE! I PICKED UP ON THIS, AND FOLLOWED YOUR PLAN. IN FACT I TOOK IT ONE STEP FURTHER! I TOLD HER YOU WERE PROBABLY... WEARING A OF COURSE, YOU WOULD NEVER WEAR THAT. BUT THAT'S THE POINT! SHE WON'T RECOGNIZE YOU NOW! AND I DIDN'T HAVE TO BETRAY EITHER OF YOU! SINCE I JUST TOLD HER WHAT YOU SAID! WOWIE! YOU'RE SUCH A SMART COOKIE! I REALLY CAN BE FRIENDS WITH EVERYONE!!!
 (You decide not to.)
-Are you ready?
-Move around! Get as many as you can!
-Hey buddy, you missed them.
-Let's try again, okay?
+Are you ready? Move around! Get as many as you can! Hey buddy, you missed them. Let's try again, okay?
 Three gold for the ferry. Yes No
 Later, then.
 Hop on!
 (It's a switch.) Press it Don't
 (The lasers were deactivated.)
 (The lasers were reactivated.)
-Ring...
-Um...
-I noticed you've been kind of quiet...
-Are you w-worried about meeting ASGORE...?
-...
-W-well, don't worry, okay?
-Th-the king is a really nice guy...
-I'm sure you can talk to him, and...
-W-with your human soul, you can pass through the barrier!
-S-so no worrying, OK? J-just forget about it and smile.
+Um... I noticed you've been kind of quiet... Are you w-worried about meeting ASGORE...? ... W-well, don't worry, okay? Th-the king is a really nice guy... I'm sure you can talk to him, and... W-with your human soul, you can pass through the barrier! S-so no worrying, OK? J-just forget about it and smile.
 here's another hot dog.
 thanks, kid. here's your hot dog.
 hey, i'm not judging.
@@ -238,14 +171,11 @@ I'll show you how it's done!
 (You place the noodles in one at a time.)
 (They clank against the empty bottom.)
 Nice???
-I'M HONORED TO BE IN THE PRESENCE OF SUCH A HUGE LUKEWARM WATER FAN,
-FOLKS!
-IT SEEMS OUR REPORTER IS DRAWN TO SPORTS LIKE MOTHS TO A FLAMING
-BASKETBALL HOOP.
+I'M HONORED TO BE IN THE PRESENCE OF SUCH A HUGE LUKEWARM WATER FAN, FOLKS!
+IT SEEMS OUR REPORTER IS DRAWN TO SPORTS LIKE MOTHS TO A FLAMING BASKETBALL HOOP.
 READY FOR YOUR... PRESENTATION?
 (... LET'S CUT THAT ONE IN POST.)
 (This is really troubling...) (Hmmm...)
-RSVP? Respond Ignore
 well, have fun in there.
 I see.
 Anything you want to do is important enough.
@@ -253,12 +183,8 @@ Even something as small as reading a book, or taking a walk...
 Please take your time.
 Oh... Back so soon?
 How are you feeling?
-Ready Go Back
 Do what you have to.
-Tra la la. I am the riverman.
-Or am I the riverwoman...? It doesn't really matter.
-I love to ride in my boat. Would you care to join me?
-Where will we go today? Snowdin Hotland
+Tra la la. I am the riverman. Or am I the riverwoman...? It doesn't really matter. I love to ride in my boat. Would you care to join me?
 Then perhaps another time. Or perhaps not. It doesn't really matter.
 (The switch doesn't do anything.)
 (It's just a regular suspicious bed now.)
@@ -273,50 +199,20 @@ Oh my...
 (It's a note from Alphys.)
 (Read it...?) Read Do not
 (It's hard to read because of the handwriting, but you try your best...)
-Hey.
-Thanks for your help back there.
-You guys... Your support really means a lot to me.
-But... As difficult as it is to say this...
-You guys alone can't magically make my own problems go away.
-I want to be a better person.
-I don't want to be afraid anymore.
-And for that to happen, I have to be able to face my own mistakes.
-I'm going to start doing that now.
-I want to be clear.
-This isn't anyone else's problem but mine.
-But if you don't ever hear from me again...
-If you want to know "the truth."
-Enter the door to the north of this note.
-You all at least deserve to know what I did.
+Hey. Thanks for your help back there. You guys... Your support really means a lot to me. But... As difficult as it is to say this... You guys alone can't magically make my own problems go away. I want to be a better person. I don't want to be afraid anymore. And for that to happen, I have to be able to face my own mistakes. I'm going to start doing that now. I want to be clear. This isn't anyone else's problem but mine. But if you don't ever hear from me again... If you want to know "the truth." Enter the door to the north of this note. You all at least deserve to know what I did.
 (That's all she wrote.)
 (There were no chips left in the machine.)
 (The vending machine dispensed some chisps.)
 (You didn't have enough gold.)
 (You are carrying too many items.)
-Is it Butterscotch? Yes No
+Is it Butterscotch?
 Oh... I see.
 Well, thank you. Goodbye for now.
 (Seems like you could skip Mettaton's monologue by turning him around now.)
-(What will you do?) Skip Hear again
+(What will you do?) Skip / Hear again
 (You told Mettaton there was something cool behind him.)
 (Ring...)
-It's all about this human girl named Mew Mew who has cat ears!
-Which humans don't have! S-so she's all sensitive about them!
-But like... Eventually!
-She realizes that her ears don't matter!
-That her friends like her despite the ears!
-It's really moving!
-Whoops, spoilers
-Also, this sounds weird, but she has the power!
-To control the minds of anyone she kisses!
-She kisses people and controls them to fix her problems!!
-They don't remember anything after the kiss I mean!!
-BUT IF SHE MISSES THE KISS!!! THEN!!
-Then, uh, and, uh, also I mean, of course
-Eventually, she realizes that controlling people
-OKAY WELL I almost spoiled the whole show, but
-Uhhh, I think you'd really like it!!!
-We should watch it! After you get through all this!
+It's all about this human girl named Mew Mew who has cat ears! Which humans don't have! S-so she's all sensitive about them! But like... Eventually! She realizes that her ears don't matter! That her friends like her despite the ears! It's really moving! Whoops, spoilers Also, this sounds weird, but she has the power! To control the minds of anyone she kisses! She kisses people and controls them to fix her problems!! They don't remember anything after the kiss I mean!! BUT IF SHE MISSES THE KISS!!! THEN!! Then, uh, and, uh, also I mean, of course Eventually, she realizes that controlling people OKAY WELL I almost spoiled the whole show, but Uhhh, I think you'd really like it!!! We should watch it! After you get through all this!
 Yeah, me too...
 Wh-WHAT!? You REMEMBER!?
 (Let sleeping dogs lie, instead of fighting them.) (That's how the saying goes.)
@@ -351,7 +247,6 @@ Do let us know if you change your mind. Have a sparkular day!
 (UNDERSTOOD.) (LET'S KNOCK 'EM DEAD!)
 Then what are you looking for?
 Then stay here for all eternity.
-(Saved) (Saved)
 This is TORIEL.
 Help with a puzzle...?
 Um, you have not left the room, have you?
@@ -374,7 +269,6 @@ Froggit and Whimsun drew near!
 Moldsmal blocked the way!
 A name has already been chosen.
 You must choose a name.
-MTT
 You ate the Monster Candy.
 Very un-licorice-like.
 ...tastes like licorice.
@@ -450,8 +344,7 @@ You consume the Bad Memory. Your HP was maxed out.
 You consume the Bad Memory. You lost 1HP.
 Through DETERMINATION, the dream became true.
 The dream came true!
-You tried to open the letter, but...
-It's been shut so tightly, you'd need a chainsaw in order to open it.
+You tried to open the letter, but... It's been shut so tightly, you'd need a chainsaw in order to open it.
 (Maybe if you check the lab door, you can slide it underneath...)
 You eat the Popato Chisps.
 You eat the Junk Food.
@@ -4194,10 +4087,10 @@ wait, ghosts can fly, can't they...
 oh well...
 (It's a spider web.)
 (There's a flyer for a bake sale on it.)
-I know why --- climbed the mountain.
---- hated humanity.
-Frisk... You really ARE different from ---
---- wasn't really the greatest person.
+I know why Chara climbed the mountain.
+Chara hated humanity.
+Frisk... You really ARE different from Chara.
+Chara wasn't really the greatest person.
 Hello... Are you all right?
 You must be so lost and confused...
 Ah, do not be afraid, my child.
@@ -4405,7 +4298,7 @@ TAKE A LOOK AROUND!
 SO YOU CAME BACK TO SEE ME!
 Seems like someone was walking in circles just to make noises...
 Come on! What are you doing!
---- huh?
+Chara, huh?
 (There's a pile of yellow names in the trash pile.)
 (Your persistent garbage habit shows no signs of payoff.)
 (Trash.)
@@ -4964,9 +4857,7 @@ These books are worn... They must have been read many times.
 The ends of the tools have been filed down to make them safer.
 Seems like gardening tools.
 Look at these cool toys! They don't interest you at all.
-Throne Room
-(It's a coffin.) (There's a name engraved on it.)
-(" --- .")
+(It's a coffin.) (There's a name engraved on it.) (" Chara .")
 It's a clothes drawer. There are robes, button-up shirts...
 ...and a pink, hand-knit sweater that says "Mr. Dad Guy."
 (It's just a chair.)
@@ -5534,15 +5425,9 @@ If only I could see the world above.
 But even if the barrier was open, how would I leave...?
 It means you've lived a life of sin.
 It means... Don't talk to me.
-Since you flexed at me, I've been thinking of a lot of things ; )
-Like... Flexing ; )
-And flexing ; )
-You came all this way to see me flex ; )
-This really says something about you ; )
-I... I'm sc-scared... ; )
-Ghosts aren't real, right? ; )
-What? They are real? Oh nooooooo ; )
-First ghosts, are real, now anime's real ; ) All my nightmares are true ; )
+Since you flexed at me, I've been thinking of a lot of things ; ) Like... Flexing ; ) And flexing ; )
+You came all this way to see me flex ; ) This really says something about you ; )
+I... I'm sc-scared... ; ) Ghosts aren't real, right? ; ) What? They are real? Oh nooooooo ; ) First ghosts, are real, now anime's real ; ) All my nightmares are true ; )
 Everything's so dirty... If I could erase everything, I would.
 Ohhhh. Don't get the wrong idea. I don't want anyone to die.
 The surface intimidates me.
@@ -5550,23 +5435,18 @@ The entire outer layer of the Earth is made of dirt.
 I clean off all of the trash and arrange it into symmetrical piles.
 It's hard work, but somebody has to do it.
 Don't drag your dirty feet in here. I just cleaned this trash!
-Clouded Glasses
-Temmie Armor
 Easy to change, huh?
-Save
-Return
-File saved.
 I think they smelled the potato chips you had, and...
 (Seems like a comfy bed.)
 (You could probably climb into it if you were to the left of it.)
 (Choose a tape to watch.)
-Okay, ---, are you ready?
-Howdy, ---! Smile for the camera!
-I... I don't like this idea, ---
-No! I'd never doubt you, ---... Never!
----...Can you hear me? We want you to wake up...
----! You have to stay determined!
-Psst... ---... Please... wake up...
+Okay, Chara, are you ready?
+Howdy, Chara! Smile for the camera!
+I... I don't like this idea, Chara.
+No! I'd never doubt you, Chara... Never!
+Chara...Can you hear me? We want you to wake up...
+Chara! You have to stay determined!
+Psst... Chara... Please... wake up...
 (It's a fake plant.)
 There's something here... It feels like it's breathing.
 There's something here... Something in the shape of a man.
@@ -5583,7 +5463,7 @@ There's something here... Something in the shape of a man.
 (Click!) (The green key fits perfectly into the slot.)
 (It's some kind of switch.) (There's a yellow-colored slot in the center.)
 (The yellow switch has been turned on.)
-...Are you there?
+... Are you there?
 Did you really think you could run away?
 DEATH
 HOPE
@@ -5632,53 +5512,6 @@ You can't carry any more.
 (The air is filled with the smell of ozone... it fills you with determination.)
 (Behind this door must be the elevator to the King's castle.)
 (The smell of cobwebs fills the air...)
-Check Compliment Threat
-Check Talk
-Check Console Terrorize
-Check Imitate Flirt
-Check Talk Devour Dinner
-Check Pick On Don't Pick On
-Check Flirt Threat Cheer
-Check Pet
-Check Pet Pet Pet Pet Pet
-Check Pet Re-sniff Roll Around
-Check Pet Beckon Play Ignore
-Check Agree Clash Joke
-Check Compliment Ignore Steal
-Check Compliment
-Check Ditch
-Check Decorate Undecorate Gift
-Check Flex Shoo
-Check Flex Feed Temmie Talk Flakes
-Check Flirt Insult
-Check Lie Down Hug Unhug
-Check Clean Touch Joke
-Check Cry
-Check Whisper Clean Armor
-Check Flirt Approach
-Check Criticize Encourage Hug
-Check Cool Down Heat Up Invite
-Check Yell
-Check Yellow
-Check Fake Attack
-Check Talk Stare Clear Mind
-Check Compliment Threaten Mystify
-Check Pick On Don't Pick Challenge On
-Check Console Terrorize Pray
-Check Defuse Bomb
-Check Whisper Touch Glove
-Check Burn
-Check Turn
-Check Boast Pose Heel Turn
-Call Hum Scream Flex Unhug Cry
-Check Pick On Mystify Clean Hum Pray
-Check ITEM STAT CELL
-Check Join Refuse
-Talk Mercy Stare Hug
-Check Switch Fix Lie Down
-Check Hiss Devour Snack
-Check Something
-Check Draw
 "Monster Candy" - Heals 10 HP Has a distinct, non-licorice flavor.
 "Stick" - Weapon AT 0 Its bark is worse than its bite.
 "Bandage" - Heals 10 HP It has already been used several times.
@@ -5710,12 +5543,10 @@ Use outside of battle to look at the card.
 "Astronaut Food" Heals 21 HP For feeding a pet astronaut.
 "Instant Noodles" Heals HP Comes with everything you need for a quick meal!
 "Crab Apple" Heals 18 HP An aquatic fruit that resembles a crustacean.
-"Hot Dog...?" Heals 20 HP The "meat" is made of something called a "water
-sausage."
+"Hot Dog...?" Heals 20 HP The "meat" is made of something called a "water sausage."
 "Hot Cat" Heals 21 HP Like a hot dog, but with little cat ears on the end.
 "Glamburger" Heals 27 HP A hamburger made of edible glitter and sequins.
-"Sea Tea" Heals 10 HP Made from glowing marshwater. Increases SPEED for one
-battle.
+"Sea Tea" Heals 10 HP Made from glowing marshwater. Increases SPEED for one battle.
 "Starfait" Heals 14 HP A sweet treat made of sparkling stars.
 "Legendary Hero" Heals 40 HP Sandwich shaped like a sword. Increases ATTACK
 when eaten.
@@ -5725,10 +5556,8 @@ when eaten.
 "Stained Apron" - Armor DF 11 Heals 1 HP every other turn.
 "Burnt Pan" - Weapon AT 10 Damage is rather consistent. Consumable items heal 4
 more HP.
-"Cowboy Hat" - Armor DF 12 This battle-worn hat makes you want to grow a beard.
-It also raises ATTACK by 5.
-"Empty Gun" - Weapon AT 12 An antique revolver. It has no ammo.
-Must be used precisely, or damage will be low.
+"Cowboy Hat" - Armor DF 12 This battle-worn hat makes you want to grow a beard. It also raises ATTACK by 5.
+"Empty Gun" - Weapon AT 12 An antique revolver. It has no ammo. Must be used precisely, or damage will be low.
 "Heart Locket" - Armor DF 15 It says "Best Friends Forever."
 "Worn Dagger" - Weapon AT 15 Perfect for cutting plants and vines.
 "Bad Memory" Hurts 1 HP ?????
@@ -5741,256 +5570,7 @@ Must be used precisely, or damage will be low.
 (You don't feel like it's made of real meat...)
 "Hush Puppy" Heals 65 HP This wonderful spell will stop a dog from casting magic.
 "Snail Pie" - Heals Some HP An acquired taste.
-"temy armor" - Armor DF 20 The things you can do with a college education!
-Raises ATTACK when worn. Recovers HP every other turn. INV up slightly.
-Monster Candy
-Stick
-Bandage
-Spider Donut
-Spider Cider
-Butterscotch Pie
-Faded Ribbon
-Toy Knife
-Tough Glove
-Manly Bandanna
-Snowman Piece
-Nice Cream
-Bisicle
-Unisicle
-Cinnamon Bun
-Temmie Flakes
-Abandoned Quiche
-Old Tutu
-Ballet Shoes
-Punch Card
-Annoying Dog
-Dog Salad
-Dog Residue
-Astronaut Food
-Instant Noodles
-Crab Apple
-Hot Dog...?
-Hot Cat
-Glamburger
-Sea Tea
-Starfait
-Legendary Hero
-Cloudy Glasses
-Torn Notebook
-Stained Apron
-Burnt Pan
-Cowboy Hat
-Empty Gun
-Heart Locket
-Worn Dagger
-Real Knife
-The Locket
-Bad Memory
-Dream
-Undyne's Letter
-Undyne Letter EX
-Popato Chisps
-Junk Food
-Mystery Key
-Face Steak
-Hush Puppy
-Snail Pie
-temy armor
-Stick
-Bandage
-SpidrDont
-SpdrDonut
-SpidrCidr
-SpdrCider
-ButtsPie
-Pie
-Ribbon
-TuffGlove
-Glove
-Mandanna
-Bandanna
-SnowPiece
-NiceCream
-Ice Cream
-Bisicle
-Unisicle
-Popsicle
-CinnaBun
-C. Bun
-TemFlakes
-Ab Quiche
-Quiche
-Old Tutu
-Tutu
-BallShoes
-Shoes
-PunchCard
-DogResidu
-D.Residue
-AstroFood
-Astr.Food
-InstaNood
-I.Noodles
-CrabApple
-Hot Dog
-Hot Cat
-GlamBurg
-G. Burger
-Sea Tea
-Starfait
-Leg,Hero
-L. Hero
-ClodGlass
-Glasses
-TornNotbo
-Notebook
-StainApro
-Apron
-CowboyHat
-<--Locket
-H. Locket
-WornDG
-W. Dagger
-RealKnife
-TheLocket
-BadMemory
-LastDream
-UndynLetr
-Letter
-UndynLtrX
-PT Chisps
-Chips
-MystryKey
-Key
-FaceSteak
-Fsteak
-Steak
-HushPupe
-HushPuppy
-Temmie AR
-Tem.Armor
--- Credits --
-(( CAST ))
-FROGGIT
-by Toby
-Pondering Life
-Professional Frog
-WHIMSUN
-Still A Bit Guilty
-Braver Every Day
-MOLDSMAL
-Found a New Cave
-Backup Dancer
-LOOX
-by Temmie
-Slightly Bully-like
-Reformed Bully
-VEGETOID
-by Toby Temmie
-Pushy Grocer
-Popular Nutritionist
-MIGOSP
-Dedicated Yesman
-Casually Enjoys Life
-NAPSTABLOOK
-Zzzzzzz...
-Spooky DJ
-SNOWDRAKE
-by Magnolia Porter
-Still Looking For Laughs
-Semi-successful Comedian
-ICECAP
-Thinking About Its Hat
-Fashion Designer
-GYFTROT
-by Magnolia Porter (and Toby???)
-Finding Peace And Quiet
-Christmas Display
-DOGGO
-Believes In The Almighty Stick
-Has His Own Seeing Eye Dog
-DOGAMY DOGARESSA
-by Toby...?
-Still Thinking About That Stick
-Finally No. 1 Nose Nuzzle Champions
-LESSER DOG
-by Temmie Toby
-Searching For Affection
-Found A Loving Owner
-GREATER DOG
-Unaware of Life's Changes
-Excited by Life's Changes
-AARON
-by Temmie (reluctantly)
-Still Flexing
-Paranormal Investigator
-MOLDBYGG
-Wistfully Adjusting to City Life
-Idyllic Life on the Beach
-WOSHUA
-Inspired by OMOCAT
-Normal Janitor
-Legendary Janitor
-TEMMIE
-MAD DUMMY
-Changed Name to Angry Dummy
-Calmed Down... Just a Bit
-SHYREN
-Taking Piano Lessons Again
-Released Her First Hit Single, "When You Say Goodbye It's Like Magical Bullets Are
-Slowly Flying Out of Your Mouth And Hitting Me"
-VULKIN
-Strolling Happily
-Encouraging Space Heater
-TSUNDERPLANE
-New Student At School
-Finally Confesses (What!? I don't!!)
-PYROPE
-Continually In Trouble
-Candle In The World's Largest Birthday Cake
-MUFFET
-by Michelle
-Spider Success With a New Bakery
-ROYAL GUARDS
-Use Your Imagination
-FINAL FROGGIT
-Searching For Life's Meaning
-Giving Life Its Own Meaning
-WHIMSALOT
-Fighting For The Future
-The Long Battle Finally Ending...
-ASTIGMATISM
-Still A Big Bully
-Domineering Glasses Seller
-MADJICK
-Learning Bowling
-Street Magician
-KNIGHT KNIGHT
-Retail Job
-Taking a Well-Deserved Nap
-AMALGAMATES
-??????
-Living With Their Families, Thinking About Sticks
-Living With Their Families
-METTATON
-SPECIAL INSPIRATION
-Bob Sparker, Sarah, and JN Wiedle
-TORIEL
-ASGORE
-MONSTER KID
-by Magnolia Porter
-PAPYRUS
-by Toby Temmie
-SANS
-JN Wiedle
-UNDYNE
-Design by Toby Armor by Temmie Fashion help: JN Wiedle Gigi DG
-ALPHYS
-Design by Toby
-Ha ha ha ha...
-Did you REALLY think it was OVER!?!?
-I mean, we haven't even done the Special Thanks yet...
+"temy armor" - Armor DF 20 The things you can do with a college education! Raises ATTACK when worn. Recovers HP every other turn. INV up slightly.
+Ha ha ha ha... Did you REALLY think it was OVER!?!? I mean, we haven't even done the Special Thanks yet...
 Ready? Let's end all of this for good!
-SPECIAL THANKS
-TOUCHED CREDITS
 Incredible work. Somewhere, felt a door opening...!
