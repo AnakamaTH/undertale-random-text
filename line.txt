@@ -41,12 +41,9 @@ JUST SO YOU COULD SHARE IT WITH ME???
 (The quiche was left all alone...)
 Nothing's here!!!
 (You're carrying too much.)
-(Two bugs in the box are playing a
--card game.)
-(There's a smiley face made of
-cards in the box.)
-(A house made of
-cards sits in the box.)
+(Two bugs in the box are playing a card game.)
+(There's a smiley face made of cards in the box.)
+(A house made of cards sits in the box.)
 (The box is overstuffed with cards.)
 (All games must end one day.) (You got a Punch Card.)
 (Happiness is fleeting.) (You got a Punch Card.)
@@ -2560,8 +2557,7 @@ What about me...... ........
 Whine.
 Whimper.
 Dogamy is brokenhearted.
-DOGAMY
-DEF Husband of Dogaressa. Knows only what he smells.
+Husband of Dogaressa. Knows only what he smells.
 The Dogs sniff you again...
 But you smell just as weird as before!
 After rolling in the dirt, you smell all right!
@@ -2592,7 +2588,7 @@ The Dogs think that you may be a lost puppy.
 The Dogs' minds have been expanded.
 The Dogaressa is on the warpath.
 DOGARESSA
-DEF This puppy finds her hubby lovely. SMELLS ONLY?
+This puppy finds her hubby lovely. SMELLS ONLY?
 The Dogaressa won't even lift up her snout.
 The Dogaressa just growls at you.
 The Dogaressa is too suspicious of your smell.
@@ -2600,8 +2596,7 @@ You pet the Dogaressa.
 It moved !! It didn't NOT move!
 Will it move this time?
 Doggo is confirming the moving object.
-DOGGO
-DEF Easily excited by movement. Hobbies include^squirrels.
+Easily excited by movement. Hobbies include squirrels.
 FETCH?
 MOVING?
 "Ice" to meet you.
@@ -2640,8 +2635,7 @@ Snowdrake is laughing at your imitation of its cohort.
 Snowdrake pretends not to care.
 Snowdrake is puffed up..
 Snowdrake is flaking apart.
-SNOWDRAKE
-DEF This teen comedian fights to keep a captive audience.
+This teen comedian fights to keep a captive audience.
 You boo the Snowdrake.
 You tell the Snowdrake that they aren't funny.
 You tell the Snowdrake that no one will ever love them the way they are...
@@ -2680,26 +2674,11 @@ Chilldrake is laughing at your imitation of its cohort.
 Chilldrake pretends not to care.
 Chilldrake is puffed up..
 Chilldrake is flaking apart.
-CHILLDRAKE
-DEF Rebels against everything!! Looking for its friend Snowy.
+Rebels against everything!! Looking for its friend Snowy.
 You tell Chilldrake it's all wrong.
 You agree with Chilldrake before it gives its speech.
 You agree with Chilldrake. It seems to get very uncomfortable...
 You make fun of Chilldrake.
-You make fun of Chilldrake.
-down
-dirtyjoke
-alphaup
-dub
-slime
-flex
-clean
-bodypart
-teeth and eyes
-leg
-SOUL
-hand
-Wosh u
 *whistle as it cleans*
 Your SOUL is unclean
 Out!!! Darned spot
@@ -2709,28 +2688,18 @@ Green means clean
 Yuck!
 Fresh!
 NO. THAT JOKE'S TOO... DIRTY
-blcontweet
-tweet
-blconwd2
-qq
-backwards
-cleaner
-offset
-qd
 Woshua wonders if tears are sanitary.
 Woshua is friends with a little bird.
 Woshua is rinsing off a pizza.
 Woshua is looking for some good clean fun.
 Smells like detergent.
 Woshua is revolted at its own wounds.
-WOSHUA
-DEF This humble germophobe seeks to cleanse the whole world.
+This humble germophobe seeks to cleanse the whole world.
 You reach out. Woshua recoils from your touch.
 Woshua is terrified of your slimy body! It runs away.
 You give Woshua a friendly pat.
 You ask Woshua to clean you. It hops around excitedly.
 Woshua continues cleaning.
-jj
 You tell a joke about two kids who played in a muddy flower garden.
 You tell a joke about a kid who ate a pie with their bare hands.
 You tell a joke about a kid who slept in the soil.
@@ -2745,10 +2714,9 @@ Shyren taps a little beat with her fins.
 Shyren thinks about doing karaoke by herself.
 Smells like music.
 Shyren's voice gets raspy.
-SHYREN
-DEF Tone deaf. She's too ashamed to sing her deadly song.
-DEF A talented singer, with a little help.
-DEF That's Shyren. She's your band-mate.
+Tone deaf. She's too ashamed to sing her deadly song.
+A talented singer, with a little help.
+That's Shyren. She's your band-mate.
 You hum a funky tune. Shyren follows your melody.
 You hum a jazz ballad. Shyren follows your melody.
 You hum some more. The seats are sold out. You feel like a rock star.
@@ -2759,12 +2727,6 @@ You give a darling smile and a little wink.
 The crowd goes wild!
 You wave your arms wildly. You are now vulnerable to electric attacks.
 You wave your arms wildly. The crowd eats it up.
-Ngahhh!
-Bring it on!
-C'mon!
-Fuhuhu!
-Ngahh!!
-Urahhh!!
 You're strong... But not strong enough!
 You're a pain in the neck, huh?
 DIE ALREADY, YOU LITTLE BRAT!
@@ -2818,8 +2780,7 @@ Undyne is smashing spears on the ground.
 Undyne's eyes dart around to see if this is a prank.
 Undyne is hyperventilating.
 Smells like angry fish.
-UNDYNE
-DEF The heroine that NEVER gives up.
+UNDYNE - The heroine that NEVER gives up.
 You tell UNDYNE her attacks are too easy. She doesn't care.
 You tell UNDYNE her attacks are too easy. The bullets get faster.
 You tell UNDYNE her attacks are too easy. The bullets get unfair.
@@ -2837,8 +2798,7 @@ What's the matter, scared?
 What the hell is the holdup?
 COME ON ALREADY!
 IT'S GETTING HOT IN HERE!
-Undyne is letting you make the first attack.
-DEF This time, don't hold anything back!
+Undyne is letting you make the first attack. This time, don't hold anything back!
 You pretend to swing at UNDYNE with all your might.
 I've been defeated... My house is in shambles...
 I even failed to befriend you.
@@ -2847,39 +2807,9 @@ I don't care if you're my guest anymore.
 One final rematch! All out on both sides!!!
 IT'S THE ONLY WAY I CAN REGAIN MY LOST PRIDE!!!
 NOW COME ON! HIT ME WITH ALL YOU'VE GOT! NGAHHHH!!!
-scr_marker
-wht
-What.
-That's the best you can manage?
-Even attacking at full force...
-You just can't muster any intent to hurt me, huh?
-Heh, you know what?
-I don't actually want to hurt you either.
-At first, I hated your stupid saccharine schtick, but...
-The way you hit me right now, it...
-Reminded me of someone I used to train with.
-Now I know you aren't just some wimpy loser.
-You're a wimpy loser with a big heart!
-Just like him...
-Listen, human.
-It seems that you and ASGORE are fated to fight.
-But knowing him...
-He probably doesn't want to.
-Talk to him.
-I'm sure you can persuade him to let you go home.
-Eventually, some mean human will fall down here...
-And I'll take THEIR soul instead.
-That makes sense, right? Fuhuhu.
-Oh, and if you DO hurt ASGORE...
-I'll take the human souls... Cross the barrier...
-And beat the hell out of you!
-That's what friends are for, right?
-Fuhuhu!
-Now let's get the hell out of this flaming house!
-UNDYNE THE UNDYING 99ATK 99DEF Heroine reformed by her own DETERMINATION
-to save Earth.
-You...
-You're gonna have to try a little harder than THAT!
+What. That's the best you can manage? Even attacking at full force... You just can't muster any intent to hurt me, huh? Heh, you know what? I don't actually want to hurt you either. At first, I hated your stupid saccharine schtick, but... The way you hit me right now, it... Reminded me of someone I used to train with. Now I know you aren't just some wimpy loser. You're a wimpy loser with a big heart! Just like him... Listen, human. It seems that you and ASGORE are fated to fight. But knowing him... He probably doesn't want to. Talk to him. I'm sure you can persuade him to let you go home. Eventually, some mean human will fall down here... And I'll take THEIR soul instead. That makes sense, right? Fuhuhu. Oh, and if you DO hurt ASGORE... I'll take the human souls... Cross the barrier... And beat the hell out of you! That's what friends are for, right? Fuhuhu! Now let's get the hell out of this flaming house!
+UNDYNE THE UNDYING - 99 ATK 99 DEF Heroine reformed by her own DETERMINATION to save Earth.
+You... You're gonna have to try a little harder than THAT!
 OWWWW, you DUMMIES!!
 Watch where you're aiming your MAGIC attacks!
 Hey! You! Forget I said anything about MAGIC!!!
@@ -2902,9 +2832,6 @@ DUMMY BOTS! TRY AGAIN!
 DUMMY BOTS! You're awful???
 DUMMY BOTS! FINAL ATTACK!
 (Wait, is DUMMY a compliment...?)
-side
-choice2
-choice3
 Mad Dummy is doing an armless ska dance.
 Mad Dummy is bossing around its bullets.
 Mad Dummy glares into a mirror, then turns to you with the same expression.
@@ -2913,13 +2840,11 @@ Smells like a clothing store.
 This message will NEVER happen.
 Mad Dummy is getting cotton all over the dialogue box.
 MAD DUMMY
-DEF Because they're a ghost, physical attacks will fail.
+Because they're a ghost, physical attacks will fail.
 You tell Aaron to go away.
 You talk to the DUMMY. ...
 No one is happy with this.
 Mad Dummy is looking nervous.
-rotmod
-sinadd
 HEY GUYS!
 Dummies. Dummies! DUMMIES!
 Remember how I said NOT to shoot at me?
@@ -2931,25 +2856,7 @@ Relying on people that aren't garbage!
 Mechanical whirrs fill the room.
 (N... no way!)
 (These guys are even WORSE than the other guys!)
-Who cares. Who cares! WHO CARES!!
-I DON'T NEED FRIENDS!!!
-knife
-I'VE GOT KNIVES!!!
-I'm...
-Out of knives.
-BUT IT DOESN'T MATTER!!!
-YOU CAN'T HURT ME AND I CAN'T HURT YOU!
-YOU'LL BE STUCK FIGHTING ME...
-Forever.
-Forever!
-FOREVER!!!!
-AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
-HAHAHAHAHAHAHAHAHAHAHAHAHA
-blt
-Wh... What the heck is this!?
-Ergh! Acid rain!?!
-Oh, FORGET IT! I'm outta here!
-blook
+Who cares. Who cares! WHO CARES!! I DON'T NEED FRIENDS!!! I'VE GOT KNIVES!!! I'm... Out of knives. BUT IT DOESN'T MATTER!!! YOU CAN'T HURT ME AND I CAN'T HURT YOU! YOU'LL BE STUCK FIGHTING ME... Forever. Forever! FOREVER!!!! AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA HAHAHAHAHAHAHAHAHAHAHAHAHA Wh... What the heck is this!? Ergh! Acid rain!?! Oh, FORGET IT! I'm outta here!
 ...sorry, i interrupted you, didn't i?
 as soon as i came over, your friend immediately left...
 oh no... you guys looked like you were having fun...
@@ -2958,8 +2865,7 @@ oh no.................................................
 oh wait... didn't you attack me before...
 uhhh... that's awkward.
 sorry. have a nice day.
-Come on in, the water's fine ; )
-No need for a swimming suit ; )
+Come on in, the water's fine ; ) No need for a swimming suit ; )
 Edu- cation? Hobby? Talent?
 Whew, I'm sweating ; )
 Don't get too close ; )
@@ -2983,8 +2889,7 @@ Smells like an underwater barnyard.
 Smells like a mussel farm.
 Aaron is ready for your next flex.
 Aaron's muscles droop comically.
-AARON
-DEF This seahorse has a lot of HP (Horsepower).
+This seahorse has a lot of HP (Horsepower).
 All of his attacks are harder to dodge at the bottom of the box.
 You tell Aaron to go away. He agrees.
 You flex. Aaron flexes twice as hard. ATTACK increases for you two.
@@ -3008,13 +2913,11 @@ Temmie is doing her hairs.
 Temmiy accidentally misspells her own name.
 Smells like Temmie Flakes.
 How'd you do that?
-TEMMIE
-DEF Loves to pet cute humans. But you're allergic!
+Loves to pet cute humans. But you're allergic!
 Temmie only wants the Temmie Flakes.
-Give the Temmie Flakes? Yas NO!!!!!!!
+Give the Temmie Flakes?
 You flex at Temmie...
 You say hello to Temmie.
-atk
 NO!!!!! muscles r..... NOT CUTE
 Ooh, I have to disagree ; )
 Temmie, are you okay? ; )
@@ -3050,10 +2953,8 @@ BUT CAN YOU GET THIS ONE???
 HERE'S A SIMPLE ONE.
 TIME TO BREAK OUT THE BIG GUNS!!
 Mettaton.
-METTATON
-DEF His metal body renders him invulnerable to attack.
+METTATON - His metal body renders him invulnerable to attack.
 Screaming is against the rules.
-turns
 THIS IS IT, DARLING! SAY GOODBYE!
 HA! THAT BUTTON WON'T SAVE YOU NOW, DARLING!
 YOU WOULDN'T DARE USE THE [ACT] COMMAND AND PRESS THAT BUTTON!
@@ -3199,8 +3100,7 @@ Smells like a military zoo.
 01 stands still.
 01 doesn't know what to do.
 01's breathing intensifies.
-RG 01
-DEF Royal Guard member with shining, polished armor.
+RG 01 - Royal Guard member with shining, polished armor.
 I see two lovers staring over the edge of the cauldron of hell.
 You attempt to touch RG 01's armor. Your hands slip off.
 You tell RG 01 to be honest with his feelings.
@@ -3246,8 +3146,7 @@ Sweat pours from 02's armor.
 02 is striking his sword against the ground.
 02 is coughing.
 02's breathing intensifies.
-RG 02
-DEF Royal Guard member with stuffy armor.
+RG 02 - Royal Guard member with stuffy armor.
 Do they both wish for death? That means their love will end in hell.
 I couldn't stop laughing.
 You clean RG 02's armor. Its cooling dirt begins to wash away.
@@ -3275,8 +3174,7 @@ Tsunderplane gives you a condescending barrel roll.
 Smells like an airport perfume counter.
 Tsunderplane is looking away shyly.
 Tsunderplane's body is smoking.
-TSUNDERPLANE
-DEF Seems mean, but does it secretly like you?
+TSUNDERPLANE - Seems mean, but does it secretly like you?
 You tell Tsunderplane it has an impressive wingspan.
 You tell Tsunderplane it has nice turbines.
 You tell Tsunderplane it has a powerful rudder.
@@ -3315,8 +3213,7 @@ Vulkin parades around you proudly.
 Vulkin stands in the corner.
 Little streams of lava come from Vulkin's eyes.
 Vulkin reassures you the plane turning tiny is, like, completely intentional.
-VULKIN
-DEF Mistakenly believes its lava can heal people.
+VULKIN - Mistakenly believes its lava can heal people.
 You tell Vulkin that its attacks are NOT helpful.
 You tell Vulkin that its rump looks like a sack of trash.
 You tell Vulkin it's doing a great job. Its attacks become extreme...
@@ -3337,8 +3234,7 @@ Pyrope is pretending to be a candle.
 Smells like rope burn.
 Pyrope wants more heat.
 The room is sweltering!
-PYROPE
-DEF This mischievous monster is never warm enough.
+PYROPE - This mischievous monster is never warm enough.
 You blow on Pyrope. Its flames die down. Pyrope's ATTACK dropped!
 You crank up the thermostat. Pyrope begins to get excited.
 You crank up the thermostat. It's super hot! Pyrope looks satisfied.
@@ -3413,8 +3309,7 @@ Smells like magic.
 You still feel confused.
 Madjick's orbs are incapacitated.
 Madjick believes you are a fellow wizard.
-Madjick
-DEF This magical mercenary only says magic words.
+Madjick - This magical mercenary only says magic words.
 You can't get a word in edgewise. Its words dizzy you...
 Madjick interrupts you by chattering to itself.
 Its gibberish dizzies you... Your DEFENSE drops by 1.
@@ -3436,8 +3331,7 @@ Knight Knight smashes her morningstar.
 Knight Knight breathes deeply.
 Knight Knight watches quietly.
 Smells like stardust.
-KNIGHT KNIGHT
-DEF This megaton mercenary wields the Good Morningstar.
+KNIGHT KNIGHT - This megaton mercenary wields the Good Morningstar.
 You ask Knight Knight about her day. There's no response.
 You ask Knight Knight about her day.
 You talk to Knight Knight. She hums something in her sleep...
@@ -3457,8 +3351,7 @@ Final Froggit jumps ominously up and down.
 You are intimidated by Final Froggit's strength. Truly.
 Final Froggit seems reluctant to fight you.
 Final Froggit stands its ground.
-FINAL FROGGIT
-DEF Its future looks brighter and brighter.
+FINAL FROGGIT - Its future looks brighter and brighter.
 You compliment Final Froggit. It understood you perfectly. Its ATTACK dropped.
 You threaten Final Froggit. It understood you perfectly. Its DEFENSE dropped.
 You did something mysterious.
@@ -3485,8 +3378,7 @@ Smells like glasses.
 Astigmatism has gone bloodshot.
 Astigmatism doesn't care about fighting anymore.
 Astigmatism is watering.
-ASTIGMATISM
-DEF This relentless bully ALWAYS gets its way.
+ASTIGMATISM - This relentless bully ALWAYS gets its way.
 You pick on Astigmatism.
 You don't pick on Astigmatism.
 You stand up to Astigmatism.
@@ -3507,8 +3399,7 @@ Whimsalot spins its weapon around.
 Smells like nightshade and bleach.
 Whimsalot doesn't want to fight anymore.
 Whimsalot's flying stutters.
-WHIMSALOT
-DEF It finally stopped worrying.
+WHIMSALOT - It finally stopped worrying.
 You reassure Whimsalot that what it's doing is alright.
 You leap at Whimsalot in a threatening manner.
 You kneel and pray for safety. Whimsalot remembers its conscience.
@@ -3522,19 +3413,13 @@ The dog is still active!
 ANNOYING DOG-BOMB It's blissfully unaware of its circumstances.
 EXTREMELY AGILE G.O.W. All things considered, it's an extremely agile glass of
 water.
-SCRIPT BOMB
-DEF Like all modern blockbusters, it's full of explosions.
-BASKET BOMB
-DEF Even if you explode, you'll at least look good.
-PRESENT BOMB
-DEF Regardless, you'll have to write a thank-you letter.
-GAME BOMB
-DEF You really should have rented it first.
+SCRIPT BOMB - Like all modern blockbusters, it's full of explosions.
+BASKET BOMB - Even if you explode, you'll at least look good.
+PRESENT BOMB - Regardless, you'll have to write a thank-you letter.
+GAME BOMB - You really should have rented it first.
 Defuse failed! Aim for DEFUSE ZONE!
 Bomb defused!
 Dog defused!
-ratings
-essay
 Violence
 Disappoint
 Justice
@@ -5007,8 +4892,7 @@ Fabulous! I completely agree!
 Oh, Frisk. Why don't you go see how Alphys is doing?
 Since the flash of light she's been working hard to set everything right.
 Ha-Ha. About time, huh?
-(By barking with text-to-speech on, the dog accidentally programmed a whole
-game.)
+(By barking with text-to-speech on, the dog accidentally programmed a whole game.)
 (Hmmm... seems fine.)
 Mettaton looked really... Really cool in that dress.
 It sort of makes me feel like I could wear one, too!
@@ -5020,6 +4904,7 @@ Toasty bun!
 (Seems like it was actually just a dog-shaped husk of dog residue.)
 (It's a pile of dog residue.)
 Take your time.
+But nobody came.
 30G - Bisicle
 45G - Bisicle
 70G - Bisicle
@@ -5027,18 +4912,10 @@ Thanks for your purchase.
 Just looking?
 That's not enough money.
 You're carrying too much.
-Buy it for
-G ?
-Take it.
 If you're really hurtin' for cash, then maybe you could do some crowdfunding.
 I hear people will pay for ANYTHING nowadays.
 Nothing left.
 ...haven't planned much more than that, I'm afraid.
-Heals 18HP (Looks like a crab.)
-Armor: 5DF (
-DF) Invincible longer
-Weapon: 2AT (
-AT) Invincible longer
 Don't be shy now.
 Woah there! I've got some neat junk for sale.
 Wah ha ha! I knew you could do it!
