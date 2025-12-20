@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Random UNDERTALE Quotes." />
- <meta name="keywords" content="Undertale, quotes" />
+  <meta name="description" content="Random UNDERTALE Dialouge." />
  <link rel="icon" href="https://cdn2.steamgriddb.com/icon/317291f2636e3b42fca2e1e02a78dcd0/1/256x256.png" type="image/png" />
  <meta property="og:title" content="Undertale Quotes" />
  <meta property="og:description" content="Random UNDERTALE Quotes." />
@@ -15,8 +14,8 @@
   <title>Undertale Quotes</title>
 </head>
 <body>
-  <div id="quote-box">Click the button to get a random quote.</div>
-  <button onclick="getRandomQuote()">Random Quote</button>
+  <div id="quote-box">Click the button to get a random Undertale dialouge.</div>
+  <button onclick="getRandomQuote()">Random Dialouge</button>
 
   <script>
     async function getRandomQuote() {
@@ -27,7 +26,7 @@
         const randomLine = lines[Math.floor(Math.random() * lines.length)];
         document.getElementById('quote-box').textContent = randomLine;
       } catch (err) {
-        document.getElementById('quote-box').textContent = 'Error loading quotes.';
+        document.getElementById('quote-box').textContent = 'Error loading dialouges.';
       }
     }
   </script>
