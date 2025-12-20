@@ -1,4 +1,4 @@
-# Undertale Randoom Text
+# Undertale Random Text
 Displays a random text from Undertale.
 
 https://undertale-quotes.anakama.xyz
