@@ -1,34 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="icon" href="https://cdn2.steamgriddb.com/icon/317291f2636e3b42fca2e1e02a78dcd0/1/256x256.png" type="image/png" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Random UNDERTALE Dialouge." />
- <link rel="icon" href="https://cdn2.steamgriddb.com/icon/317291f2636e3b42fca2e1e02a78dcd0/1/256x256.png" type="image/png" />
- <meta property="og:title" content="Undertale Dialouge" />
- <meta property="og:description" content="Random UNDERTALE Dialouge." />
- <meta property="og:type" content="website" />
- <meta property="og:image" content="https://undertale.wiki/apple-touch-icon.png" />
+  <meta property="og:title" content="Undertale Dialouge" />
+  <meta property="og:description" content="Random UNDERTALE Dialouge." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://undertale.wiki/apple-touch-icon.png" />
+  
   <link rel="stylesheet" href="style.css" />
+  <script src="script.js"></script>
 </head>
   <title>Undertale Quotes</title>
 </head>
 <body>
   <div id="quote-box">Click the button to get a random Undertale dialouge.</div>
   <button onclick="getRandomQuote()">Random Dialouge</button>
-
-  <script>
-    async function getRandomQuote() {
-      try {
-        const response = await fetch('line.txt');
-        const text = await response.text();
-        const lines = text.split(/\r?\n/).filter(line => line.trim() !== '');
-        const randomLine = lines[Math.floor(Math.random() * lines.length)];
-        document.getElementById('quote-box').textContent = randomLine;
-      } catch (err) {
-        document.getElementById('quote-box').textContent = 'Error loading dialouges.';
-      }
-    }
-  </script>
 </body>
 </html>
